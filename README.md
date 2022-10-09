@@ -6,4 +6,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gang525&count_private=false&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gang525&theme=algolia&hide=javascript,html,css,scss&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+## About me
+I am a Ph.D. candidate in the Naval Architecture & Marine Engineering Department at The University of Michigan.
+I work on multi-fidelity optimization methods for composite hydrofoils.
