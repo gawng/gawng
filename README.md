@@ -9,3 +9,4 @@
 ## About me
 I am a Ph.D. candidate in the Naval Architecture & Marine Engineering Department at The University of Michigan.
 I work on multi-fidelity optimization methods for composite hydrofoils.
+You can follow my research [here](https://www.researchgate.net/profile/Galen-Ng-3)
